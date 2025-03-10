@@ -43,7 +43,7 @@ def write_latex_glossary(folder):
         f.write("\\usepackage{hyperref}\n")
         f.write("\\begin{document}\n")
         f.write("\n\n")
-        f.write("\\setlength{\\columnsep}{3cm}\n")
+        f.write("\\setlength{\\columnsep}{1.5cm}\n")
         f.write("\\begin{multicols}{3}\n")
         f.write("\\noindent\n")
         for letter, lst in letter_to_list.items():

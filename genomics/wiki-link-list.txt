@@ -56,3 +56,16 @@ https://en.wikipedia.org/wiki/Zygosity#Heterozygous
 https://en.wikipedia.org/wiki/Activator_(genetics)
 https://en.wikipedia.org/wiki/Repressor
 https://en.wikipedia.org/wiki/Gene_regulatory_network
+https://en.wikipedia.org/wiki/Chromatin
+https://en.wikipedia.org/wiki/Epigenetics
+https://en.wikipedia.org/wiki/Polymerase_chain_reaction
+https://en.wikipedia.org/wiki/Somatic_(biology)
+https://en.wikipedia.org/wiki/Germline
+https://en.wikipedia.org/wiki/Homologous_chromosome
+https://en.wikipedia.org/wiki/Karyotype
+https://en.wikipedia.org/wiki/Bioinformatics
+https://en.wikipedia.org/wiki/Genomics
+https://en.wikipedia.org/wiki/Sequence_motif
+https://en.wikipedia.org/wiki/Operon
+https://en.wikipedia.org/wiki/Cis-regulatory_element
+https://en.wikipedia.org/wiki/Pleiotropy
